@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Aaradana 👋
 
-<!--
-**Aaradana06/Aaradana06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Cyber Security Engineering Student  
+🔐 Cybersecurity & Blockchain Enthusiast  
+💻 Currently working on a vulnerability scanner project  
+📚 Learning: Python, Linux, Git, Networking  
+🌱 Passionate about securing digital spaces  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🛡️ I love exploring new security tools and keeping up with the latest in infosec.
+- 📝 Sharing knowledge through write-ups and community contributions.
+- 🤝 Open to collaborating on open source security and blockchain projects.
+- 🌍 Advocate for privacy, ethical hacking, and responsible disclosure.
+- ⚡ Fun fact: I enjoy CTFs (Capture The Flag) and solving security challenges!
