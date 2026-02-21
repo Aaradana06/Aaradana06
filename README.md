@@ -14,8 +14,12 @@
 
 ## 👩‍💻 About Me
 
-- 🛡️ I love exploring new security tools and keeping up with the latest in infosec.
-- 📝 Sharing knowledge through write-ups and community contributions.
-- 🤝 Open to collaborating on open source security and blockchain projects.
-- 🌍 Advocate for privacy, ethical hacking, and responsible disclosure.
-- ⚡ Fun fact: I enjoy CTFs (Capture The Flag) and solving security challenges!
+- 💻 Passionate about front-end & full-stack web development
+
+- 🌐 Skilled in HTML, CSS, JavaScript
+
+- ⚡ Focused on creating fast and responsive web apps
+
+- 🎯 Interested in UI/UX design and web performance
+
+- 🤝 Open to collaboration and contributing to open-source
