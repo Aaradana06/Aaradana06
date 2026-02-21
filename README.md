@@ -1,10 +1,10 @@
 # Hi there, I'm Aaradana 👋
 
 🎓 2nd Year Cyber Security Engineering Student  
-🔐 Cybersecurity & Blockchain Enthusiast  
-💻 Currently working on a vulnerability scanner project  
-📚 Learning: Python, Linux, Git, Networking  
-🌱 Passionate about securing digital spaces  
+💻 Web Developer (HTML, CSS, JavaScript, React) 
+🚀 Build responsive & user-friendly websites 
+🌱 Always learning new technologies
+🤝 Open to collaboration & open-source projects 
 
 ---
 
