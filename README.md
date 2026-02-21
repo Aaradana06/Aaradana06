@@ -1,9 +1,13 @@
 # Hi there, I'm Aaradana 👋
 
 🎓 2nd Year Cyber Security Engineering Student  
+
 💻 Web Developer (HTML, CSS, JavaScript, React) 
+
 🚀 Build responsive & user-friendly websites 
+
 🌱 Always learning new technologies
+
 🤝 Open to collaboration & open-source projects 
 
 ---
